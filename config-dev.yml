@@ -1,1 +1,2 @@
-springcloud-config  config-dev.yml
+springcloud-config:
+       config-dev.yml
